@@ -1599,7 +1599,7 @@ figcaption {
   margin-bottom: 39px;
 }
 
-@media (max-width: 991px) {
+@media screen and (max-width: 991px) {
   .nav-link {
     padding-top: 32px;
     color: #f7f7f5;
@@ -1661,7 +1661,7 @@ figcaption {
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .nav-link.white {
     color: #222228;
   }
@@ -1767,7 +1767,7 @@ figcaption {
   }
 }
 
-@media (max-width: 479px) {
+@media screen and (max-width: 479px) {
   ._20-percent-column {
     width: 100%;
   }
